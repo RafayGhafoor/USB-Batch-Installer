@@ -1,4 +1,4 @@
-#TODO
+# TODO
 
 - [ ] Writing script in python from scratch.
 - [ ] Adding auto-update check for softwares.
